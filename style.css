@@ -1,3 +1,8 @@
 body {
-    background-color: cornflowerblue;
+    background-color: lightpink;
+}
+
+.myDiv {
+    color: firebrick
+    font-weight: bold;
 }
